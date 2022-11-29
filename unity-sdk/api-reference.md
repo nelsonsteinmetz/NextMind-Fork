@@ -1,0 +1,1 @@
+﻿This is a placeholder page that should redirect to the APIRef pages
